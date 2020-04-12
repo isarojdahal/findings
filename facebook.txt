@@ -1,0 +1,17 @@
+my_profile_id : 100006097591554
+
+
+folders:
+/
+
+ajax/follow/unfollow_profile.php?profile_id= <id>
+ajax/follow/follow_profile.php?profile_id= <id>
+ajax/browser/dialog/mutual_friends/?uid = <id>
+ajax/pagelet/generic.php
+ajax/pagelet/generic.php/WebNotificationsPayloadPagelet?fb_dtsg_ag
+ajax/photos/logging/session_logging.php
+
+
+feed/profile/sub_follow/?id=<id>&action=follow
+
+stories/view/async/?
