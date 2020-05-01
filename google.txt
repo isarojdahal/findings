@@ -1,0 +1,7 @@
+all fonts are in : fonts.gstatic.com
+user contents are in : lh3.googleusercontent.com // sub domain can vary according to servers.
+image/video files are in : ssl.gstatic.com
+(ssl.gstatic.com/gb/images/a/644a42cd40.png   ssl.gstatic.com/gb/images/a/e000432278.png   ssl.gstatic.com/gb/images/a/133fc21e88.png)
+
+
+google search video card : https://encrypted-vtbn3.gstatic.com/video?q=tbn:ANd9GcQH6q40za1pt05RjpKnmmcWNkwaUeiSFBWjvYfKpWaZniWBwF6M
