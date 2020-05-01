@@ -3,6 +3,8 @@
 /youtubei/v1/notification/get_notification_menu?key= <value>
 /youtubei/v1/updated_metadata?key= <value>
 
+/comment_service_ajax?action_get_comment_replies=1&pbg=1&token=<value>
+
 
 
 api/stats/
