@@ -15,3 +15,6 @@ ajax/photos/logging/session_logging.php
 feed/profile/sub_follow/?id=<id>&action=follow
 
 stories/view/async/?
+
+
+ajax/notifications/mark_read.php
