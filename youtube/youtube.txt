@@ -1,0 +1,15 @@
+
+
+/youtubei/v1/notification/get_notification_menu?key= <value>
+/youtubei/v1/updated_metadata?key= <value>
+
+/comment_service_ajax?action_get_comment_replies=1&pbg=1&token=<value>
+
+
+
+api/stats/
+
+youtube post images are from : https://yt3.ggpht.com/<hash>
+Ex :  https://yt3.ggpht.com/3FzA0KkriMdXD92vkSM-n1YwfyLj0DNn5v86fEJ6SDfBVhZvtQ0VoORtWpaTRaP2Y8jPHhdspwzC=s640-nd
+
+Fetching Comments: https://www.youtube.com/comment_service_ajax?action_get_comments=1&pbj=1&ctoken=<hash>&continuation=<hash>&itct=<hash>

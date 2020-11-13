@@ -21,3 +21,6 @@ ajax/notifications/mark_read.php
 
 
 https://www.facebook.com/media/set/upload/a.2332505990147317
+
+to share post to facebook: facebook.com/sharer/sharer.php?u=<your_url>
+Ex : facebook.com/sharer/sharer.php?u=https://www.sarojdahal.com.np
